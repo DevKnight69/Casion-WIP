@@ -1,5 +1,7 @@
 Game List (unfinished):
-Craps
-Blackjack
+
+-Craps
+
+-Blackjack
 
 More games will be added soon <3
